@@ -5,7 +5,7 @@
 ## Contents
 
 - [About](#about)
-- [Blockchain Implementations](#Blockchain-Implementations)
+- [Chronological Updates](#Chronological-Updates)
 - [Contribute](#contribute)
 
 ## About
