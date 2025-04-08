@@ -20,7 +20,7 @@ For the convenience, the most recent projects are dated and on top to follow the
 
 - [Rust implementation of FROST by the Zcash Foundation](https://github.com/ZcashFoundation/frost): Leading Rust implementation of FROST by the Zcash Foundation
 
-- [A BIP draft for BIP340-compatible FROST threshold signing protocol](https://github.com/siv2r/bip-frost-signing): A standard for the Flexible Round-Optimized Schnorr Threshold (FROST) signing protocol. The standard is compatible with BIP340 public keys and signatures. It supports tweaking, which allows deriving BIP32 child keys from the group public key and creating BIP341 Taproot outputs with key and script paths.
+- [A BIP draft for BIP340-compatible FROST threshold signing protocol](https://github.com/siv2r/bip-frost-signing): A standard for the Flexible Round-Optimized Schnorr Threshold (FROST) signing protocol. The standard is compatible with BIP340 public keys and signatures. It supports tweaking, which allows deriving BIP32 child keys from the group public key and creating BIP341 Taproot outputs with key and script paths. In simple words - being able to FROST-sign bitcoin transactions.
 
 - [JavaCard implementation of FROST](https://github.com/crocs-muni/JCFROST): JCFROST is a JavaCard implementation of FROST threshold signature scheme using public JavaCard API complying with the IRTF standardization draft.
 
